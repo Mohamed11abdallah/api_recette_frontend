@@ -1,4 +1,4 @@
-# Gestion de Recettes - README
+# Gestion de Recettes
 
 ## Introduction
 
@@ -53,11 +53,19 @@ Installez les dépendances :
 
 `npm install`
 
-Utilisation
+## Démarrer le projet
 
 Pour démarrer l'application en mode développement, utilisez la commande suivante :
 
 `npm run dev`
+
+## Utilisation d'Axios
+
+- L'application de gestion de recettes utilise Axios pour faciliter les échanges avec le serveur backend. Grâce à cela, elle peut effectuer des opérations telles que récupérer, ajouter, modifier et supprimer des recettes et des catégories en envoyant des requêtes HTTP au serveur.
+
+## Gestion de la Traduction (i18n)
+
+- L'application gère le multilinguisme en utilisant i18n pour assurer la traduction des contenus. Cela permet aux utilisateurs de basculer entre différentes langues en temps réel. Les textes de l'interface se mettent à jour instantanément, offrant une expérience utilisateur adaptée à la langue choisie, tout en appliquant des traductions par défaut lorsque certaines ne sont pas disponibles.
 
 ## Auteur
 

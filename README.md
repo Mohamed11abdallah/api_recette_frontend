@@ -39,10 +39,10 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
 
 1. Clonez le dépôt :
 
-   `git clone https://github.com/OUMARNDIAYE49/gestion_recette_app_frondend.git`
+   `git clone https://github.com/Mohamed11abdallah/api_recette_frontend.git`
 
 2. Accédez au répertoire du projet :
-   `cd gestion_recette_app_frondend`
+   `cd https://github.com/Mohamed11abdallah/api_recette_frontend.git`
 
 Installez les dépendances :
 
